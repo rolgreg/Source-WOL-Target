@@ -18,7 +18,7 @@ IFACE=br0
 # MAC is the MAC address of the device you want to wake
 MAC=PUT YOUR MAC ADRESS HERE!
 WOL=/usr/bin/ether-wake
-LOGFILE="/var/log/ether-wake.log"
+LOGFILE="/var/log/targetwol.log"
 
 while sleep $INTERVAL;do
 
