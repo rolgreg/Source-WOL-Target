@@ -1,4 +1,4 @@
-Usage example:  Script (executing on router) monitors a video streaming device (e.g., WD TV Live, Roku, Ceton Echo).  When the device is turned on, the script (router) wakes a media server that stores media files for the device
+Usage example:  Script (executing on router) monitors a video streaming device (e.g., WD TV Live, Roku, Ceton Echo).  When the device is turned on, the script (router) wakes a media server that stores media files for the device.  Script is low overhead on router, so multiple scripts can be run for different devices or combinations of different devices.
 
 ```
 #!/bin/sh
