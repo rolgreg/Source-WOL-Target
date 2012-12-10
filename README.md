@@ -1,0 +1,1 @@
+Usage example:  Script monitors a video streaming device (e.g., WD TV Live, Roku).  The the device is turned on, the script wakes the media server.
